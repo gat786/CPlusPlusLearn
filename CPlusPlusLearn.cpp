@@ -2,13 +2,12 @@
 //
 
 #include <iostream>
-#include "Calculator.cpp";
+#include "SecretGuesser.cpp"
 
 using namespace std;
 
 int main()
 {
-    Calculator calculator = Calculator();
-    calculator.runCalculator();
-   
+    SecretGuesser guesser = SecretGuesser();
+    guesser.playTheGame();
 }

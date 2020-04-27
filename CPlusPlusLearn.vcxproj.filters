@@ -24,12 +24,24 @@
     <ClCompile Include="Weekday.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Loops.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SecretGuesser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Calculator.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Weekday.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Loops.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SecretGuesser.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

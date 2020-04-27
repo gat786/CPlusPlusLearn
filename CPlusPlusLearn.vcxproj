@@ -149,6 +149,8 @@
   <ItemGroup>
     <ClCompile Include="Calculator.cpp" />
     <ClCompile Include="CPlusPlusLearn.cpp" />
+    <ClCompile Include="Loops.cpp" />
+    <ClCompile Include="SecretGuesser.cpp" />
     <ClCompile Include="Weekday.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -156,6 +158,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Calculator.h" />
+    <ClInclude Include="Loops.h" />
+    <ClInclude Include="SecretGuesser.h" />
     <ClInclude Include="Weekday.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

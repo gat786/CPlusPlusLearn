@@ -37,4 +37,11 @@ class LoopsThrough {
 			while (i < 7);
 			
 		}
+
+		void forLoop() {
+			cout << "The loop is going to run after this";
+			for (int index = 0; index <= 10; index++) {
+				cout << index << endl;
+			}
+		}
 };

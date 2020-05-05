@@ -2,12 +2,12 @@
 //
 
 #include <iostream>
-#include "SecretGuesser.cpp"
+#include "Pointers.cpp"
 
 using namespace std;
 
 int main()
 {
-    SecretGuesser guesser = SecretGuesser();
-    guesser.playTheGame();
+    Pointers pters = Pointers();
+    pters.basicPointers();
 }

@@ -7,6 +7,12 @@ using namespace std;
 class SecretGuesser
 {
 
+    /*
+    driver code :-
+    SecretGuesser guesser = SecretGuesser();
+    guesser.playTheGame();
+    */
+
 	int secret;
 	public:
 
